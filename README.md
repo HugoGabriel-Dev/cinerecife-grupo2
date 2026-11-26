@@ -6,9 +6,13 @@ Projeto final da disciplina Laboratório de Programação — Profª Rafaella Ma
 
 | Integrante | Matrícula | Usuário GitHub | Funções sob sua responsabilidade |
 |---|---|---|---|
-|  |  |  |  |
+|Pedro Henrique|12627840428|  |Criar Sair, Listar filmes, Cadastrar filme, e Limpar terminal|
+|Hugo Gabriel|15411410401|HugoGabriel-Dev|Juntar as funções no código e enviar no github|
+|Diego Simon|13760202462|  |Criar Remover filme e Buscar filmes por gênero|
+|Gustavo Soares||  |Criar Relatório de bilheteria e Bomboniere|
+|Nícolas Gomes||  |Criar Vender ingresso e Cancelar venda|
 
-- Líder:
+- Líder: Hugo Gabriel Pereira Paes
 - Variante (pela matrícula do(a) líder): (ex.: 4-5 — R$ 28,00, quarta-feira, 30%, 45 assentos, Terror)
 
 ## Sobre o sistema
